@@ -113,7 +113,7 @@ ${readmore}
 │ • ${prefix}welcome
 ╰○
 
-╭─○「 *Owner Menu* 」
+╭─○「 *Owner Menu Khusus BIB4YOY!!* 」
 │ • > evalcode
 │ • x evalcode-2
 │ • $ executor
@@ -129,12 +129,8 @@ ${readmore}
 ╰○
 
 ╭─○「 *Thanks To* 」
-│ • Irfan H.
-│ • Yoga A.
-│ • Faiz Frdnd
-│ • Arthur
-│ • Gabriel / Guntur
-│ • Amirul Dev
-│ • riycoders
+│ • ALLAH SWT
+│ • ORTU
+│ • BIB4YOU (ME)
 ╰○`
 }
